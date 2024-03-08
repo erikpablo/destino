@@ -9,6 +9,6 @@ Nesse desafio, eu reciei uma aplicação, a partir de um layout pronto no F
 - Aplicando fontes customizadas;
 - Espaçamentos.
 
-- Consegui finalizar o desafio e muito contente com a evolução
-- 
-- ![Desktop](https://github.com/erikpablo/destino/assets/159021301/cb46e843-30dc-4fb8-8e73-79669435b86e)
+Consegui finalizar o desafio e muito contente com a evolução
+
+![Desktop](https://github.com/erikpablo/destino/assets/159021301/cb46e843-30dc-4fb8-8e73-79669435b86e)
